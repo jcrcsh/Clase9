@@ -8,5 +8,5 @@ for i in range(1, 61):
     hour=t[3]
     min=t[4]
     sec=t[5]
-    print(year, month, day, hour, min, sec)
+    print(year, month, day, hour,":",min,":",sec)
     time.sleep(1)
