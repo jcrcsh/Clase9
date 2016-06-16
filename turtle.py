@@ -1,4 +1,4 @@
-import Turtle
+import turtle
 
 t=turtle.Pen()
 
